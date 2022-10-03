@@ -1,5 +1,23 @@
 # Palindrome Lab Solution 1
 
+
+````
+1 make a function that returns true if a word is palindrom and false is not
+that means if the word is the same as the word in reserve I should return true
+
+````
+
+````
+2 - mom === mom // true
+
+    abc === cba // false
+````
+
+````
+3- Pseudocode
+
+````
+
 ## Learning Goals
 
 - Practice algorithmic problem solving
